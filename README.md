@@ -2,6 +2,7 @@
 1. Skype (+add corporate email in profile)
 2. Punto Switcher
 3. [Birman layout](http://ilyabirman.ru/projects/typography-layout/)
+4. Download Master
 
 # Settings
 1. Change Time Settings
