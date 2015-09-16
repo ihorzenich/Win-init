@@ -1,6 +1,8 @@
 # Install
 1. Skype (+add corporate email in profile)
 2. Punto Switcher
+  1. Set all expections
+  2. Disable for Skype!
 3. [Birman layout](http://ilyabirman.ru/projects/typography-layout/)
 4. Download Master
 
