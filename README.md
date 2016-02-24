@@ -7,6 +7,9 @@
 4. Download Master
 5. Microsoft Office (with Outlook)
 
+6. [HTML Framework](https://github.com/ihorzenich/html-framework)
+7. Gulp: `npm install --global gulp-cli`
+
 # Settings
 1. Change Time Settings
 2. Change languages:
