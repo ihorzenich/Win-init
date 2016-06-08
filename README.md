@@ -13,6 +13,7 @@
 7. Gulp: `npm install --global gulp-cli`
 8. Avast
 9. Malwarebytes Anti-Malware
+10. [r2 Startup Delayer](http://www.r2.com.au/page/products/download/startup-delayer/)
 8. Punto Switcher
   * Set all expections
   * Disable for Skype!
