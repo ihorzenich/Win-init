@@ -1,15 +1,21 @@
 # Install
 1. Skype (+add corporate email in profile)
-2. Punto Switcher
-  1. Set all expections
-  2. Disable for Skype!
-3. [Birman layout](http://ilyabirman.ru/projects/typography-layout/)
-4. Download Master
-5. Microsoft Office (with Outlook)
-6. [Dev environment: SVN+Git+Photoshop](https://github.com/ideus-team/guidelines/blob/master/frontend/settings-windows.md)
-7. SVN config settings (from EPAM wiki)
-8. [HTML Framework](https://github.com/ihorzenich/html-framework)
-9. Gulp: `npm install --global gulp-cli`
+2. Microsoft Office (with Outlook)
+3. Adobe:
+  - Adobe Acrobat DC
+  - Adobe Flash CC
+  - Adobe Animate CC
+  - Adobe Illustrator CC
+  - Adobe InDesign CC
+4. [Dev environment: SVN+Git+Photoshop](https://github.com/ideus-team/guidelines/blob/master/frontend/settings-windows.md)
+5. SVN config settings (from EPAM wiki)
+6. [HTML Framework](https://github.com/ihorzenich/html-framework)
+7. Gulp: `npm install --global gulp-cli`
+8. Punto Switcher
+  * Set all expections
+  * Disable for Skype!
+9. [Birman layout](http://ilyabirman.ru/projects/typography-layout/)
+10. Download Master
 
 # Settings
 1. Change Time Settings
