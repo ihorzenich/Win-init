@@ -11,6 +11,8 @@
 5. SVN config settings (from EPAM wiki)
 6. [HTML Framework](https://github.com/ihorzenich/html-framework)
 7. Gulp: `npm install --global gulp-cli`
+8. Avast
+9. Malwarebytes Anti-Malware
 8. Punto Switcher
   * Set all expections
   * Disable for Skype!
